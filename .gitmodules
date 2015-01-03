@@ -1,0 +1,6 @@
+[submodule "Bull-Live-Server"]
+	path = Bull-Live-Server
+	url = https://github.com/wenjiegit/Bull-Live-Server.git
+[submodule "Bull-Live-Encoder"]
+	path = Bull-Live-Encoder
+	url = https://github.com/wenjiegit/Bull-Live-Encoder.git
